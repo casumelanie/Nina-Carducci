@@ -119,7 +119,8 @@ body {
 	padding-bottom: 100%;
 
 }
-.gallery-item {
+.gallery-item,
+.gallery-item-img {
 	position: absolute;
 	width: 100%;
 	height: 100%;
