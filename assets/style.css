@@ -354,3 +354,13 @@ input[type="submit"] {
 	}
 }
 
+/* MES AJOUTS */
+img {
+	object-fit: cover;
+}
+
+@media all and (max-width: 1000px) {
+	.picture.left img {
+		height: 400px;
+	}
+}
